@@ -37,8 +37,11 @@ User-agent: Wget
 Referer: http://google.com
 
 Or anything else of http header. If you don't have any idea of this please just use "nil" for using default random header.
-Usage
+
+Usage : 
 
 cd GodDDoS
+
 go build GodDDoS.go
+
 ./GodDDoS  <url> <threads> <get/post> <seconds> <header.txt/nil>
