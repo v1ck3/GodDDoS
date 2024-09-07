@@ -24,6 +24,7 @@ Default header setting:
 Download
 
 apt install golang (for linux pc users)
+
 pkg install golang (for termux users)
 
 Then:
