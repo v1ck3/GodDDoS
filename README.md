@@ -1,6 +1,6 @@
 #GodDDoS
 
-GOD DDOS IS A SCRIPT WRITTEN IN GO LANGUAGE
+GOD DDOS IS A DDOS SCRIPT WRITTEN IN GO LANGUAGE
 
 INFO
 
@@ -45,4 +45,4 @@ cd GodDDoS
 
 go build GodDDoS.go
 
-./GodDDoS  <url> <threads> <get/post> <seconds> <header.txt/nil>
+./GodDDoS <url> <threads> <get/post> <seconds> <header.txt/nil>
